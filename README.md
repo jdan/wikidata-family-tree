@@ -1,3 +1,7 @@
+## wikidata family tree
+
+playing around with (messy) ancestry data on wikidata
+
 ### get a list of parent-child relationships
 
 https://query.wikidata.org/
