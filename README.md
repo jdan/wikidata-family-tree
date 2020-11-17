@@ -17,7 +17,7 @@ download as `raw.json`
 
 ### massage the data
 
-node `generate-tree.js`
+node `generate-parent-child.js`
 
 ### display an ancestry
 
