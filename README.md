@@ -9,11 +9,11 @@ select ?person ?parent where {
 }
 ```
 
-download as raw.json
+download as `raw.json`
 
 ### massage the data
 
-node generate-tree.js
+node `generate-tree.js`
 
 ### display an ancestry
 
